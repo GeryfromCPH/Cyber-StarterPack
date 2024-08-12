@@ -1,4 +1,9 @@
 # Resources
+## Daily news
+Bleeping Computer: https://www.bleepingcomputer.com/
+The Hackernews: https://thehackernews.com/
+Helpnet security: https://www.helpnetsecurity.com/view/news/
+Osinter: https://osinter.dk/blog/about-the-project
 ## About vulnerabilities, weaknesses
 CVE: https://cve.mitre.org/cve/search_cve_list.html
 CWE: https://cwe.mitre.org/find/index.html
