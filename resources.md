@@ -30,6 +30,9 @@ Mandiant: https://www.mandiant.com/resources/reports
 Crowdstrike: https://www.crowdstrike.com/resources/reports/?lang=1
 ## Cyber strategy and governance
 CCDCOE: https://ccdcoe.org/library/strategy-and-governance/
+## APT and cyber research resources
+MITRE ATT@CK: https://attack.mitre.org/matrices/enterprise/
+MITRE APT Groups: https://attack.mitre.org/groups/
 ## Penetration Testing
 ### Practise
 Hackthebox Academy: https://academy.hackthebox.com/  
