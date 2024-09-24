@@ -30,6 +30,7 @@ Mandiant: https://www.mandiant.com/resources/reports
 Crowdstrike: https://www.crowdstrike.com/resources/reports/?lang=1
 ## Cyber strategy and governance
 CCDCOE: https://ccdcoe.org/library/strategy-and-governance/
+EU regulations collection: https://www.european-cyber-resilience-act.com/Cyber_Resilience_Act_Links.html 
 ## APT and cyber research resources
 MITRE ATT@CK: https://attack.mitre.org/matrices/enterprise/
 MITRE APT Groups: https://attack.mitre.org/groups/
